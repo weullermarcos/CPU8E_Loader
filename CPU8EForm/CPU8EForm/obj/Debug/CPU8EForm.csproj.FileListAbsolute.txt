@@ -1,0 +1,17 @@
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\bin\Debug\CPU8EForm.exe.config
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\bin\Debug\CPU8EForm.exe
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\bin\Debug\CPU8EForm.pdb
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.csprojResolveAssemblyReference.cache
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.Properties.Resources.resources
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.csproj.GenerateResource.Cache
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.exe
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.pdb
+C:\Users\wsantos\Documents\EPSON\ECF_Production\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.CPU8E_Form.resources
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\bin\CPU8EForm.exe.config
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\bin\CPU8EForm.exe
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\bin\CPU8EForm.pdb
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.CPU8E_Form.resources
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.Properties.Resources.resources
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.csproj.GenerateResource.Cache
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.exe
+C:\Users\wsantos\Documents\CPU8E_Loader\CPU8EForm\CPU8EForm\obj\Debug\CPU8EForm.pdb
