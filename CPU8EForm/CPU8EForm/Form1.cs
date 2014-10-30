@@ -43,6 +43,8 @@ namespace CPU8EForm
 
         private void btnReadConfigurations_Click(object sender, EventArgs e)
         {
+            txtContent.Text = "";
+
             if (openFile.ShowDialog() == DialogResult.OK)
             {
                 txtCommand.Text = openFile.FileName;
@@ -52,7 +54,7 @@ namespace CPU8EForm
                 string aux="";
                 for (int i = 0; i < fileBytes.Length; i++ )
                 {
-                    if (fileBytes[i] < 15)
+                    if (fileBytes[i] < 16)
                     {
                         aux = "0" + fileBytes[i].ToString("X");
                     }
@@ -131,12 +133,12 @@ namespace CPU8EForm
 
         private void CPU8E_Form_Load(object sender, EventArgs e)
         {
-            string directory = Directory.GetCurrentDirectory() + "\\" + "binarios";
+            //string directory = Directory.GetCurrentDirectory() + "\\" + "binarios";
 
-            if (!Directory.Exists(directory))
-            {
-                Directory.CreateDirectory(directory + "\\" + "binarios");
-            }
+            //if (!Directory.Exists(directory))
+            //{
+            //    Directory.CreateDirectory(directory + "\\" + "binarios");
+            //}
 
             disableButtons();
         }
